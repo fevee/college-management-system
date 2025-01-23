@@ -1,0 +1,204 @@
+
+------------------ERROR-------------------
+File: 2023-349-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-800012</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Node Count: 7
+Error Message: Invalid grade. If type 1, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-800010</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Node Count: 7
+Error Message: Invalid grade. If type 1, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>D-12345</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Course does not exist</notes>
+Node Count: 7
+Error Message: Invalid course number. If type 2, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-800010</course_no>
+Registration Number: <registration_no>2001</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Node Count: 7
+Error Message: Invalid course number. If type 2, enter *
+-------------------------------------------------
+A grade of: 98 has been successfully applied to registration 804.
+A grade of: 50 has been successfully applied to registration 809.
+REGISTRATION ERROR: Student has exceeded the maximum attempts on mastery course.
+Student: 80000001 has successfully registered for course: G-800011
+Student: 80000001 has successfully registered for course: G-800009
+REGISTRATION ERROR: Student cannot register for a course in which there is already an ungraded registration.
+Student: 80000002 has successfully registered for course: G-800012
+------------------ERROR-------------------
+File: 2023-349-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>*</course_no>
+Registration Number: <registration_no>8011</registration_no>
+Type: <type>2</type>
+Grade: 
+Notes: <notes>***ERROR*** Incorrect number of Child Nodes</notes>
+Node Count: 6
+Error Message: Incorrect number of child elements.
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-VT.xml
+Program: <program>VV</program>
+Student Number: <student_no>80000003</student_no>
+Course Number: <course_no>*</course_no>
+Registration Number: <registration_no>8013</registration_no>
+Type: <type>2</type>
+Grade: <grade>90</grade>
+Notes: <notes>**ERROR*** Invalid Program Acronym</notes>
+Node Count: 7
+Error Message: Mismatch between program element and root attribute.
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>M-80001</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Node Count: 7
+Error Message: Invalid grade. If type 1, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-800004</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Node Count: 7
+Error Message: Invalid grade. If type 1, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>1111</student_no>
+Course Number: <course_no>G-800004</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Student does not exist</notes>
+Node Count: 7
+Error Message: Invalid student number.
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-VT.xml
+Program: <program>VT</program>
+Student Number: <student_no>80000003</student_no>
+Course Number: <course_no>G-800005</course_no>
+Registration Number: <registration_no>1000</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Node Count: 7
+Error Message: Invalid course number. If type 2, enter *
+-------------------------------------------------
+A grade of: 93.2 has been successfully applied to registration 812.
+A grade of: 91.6 has been successfully applied to registration 814.
+A grade of: 91 has been successfully applied to registration 815.
+A grade of: 90 has been successfully applied to registration 813.
+Student: 80000003 has successfully registered for course: A-8002
+Student: 80000003 has successfully registered for course: G-800004
+Exception in ProcessTransmission: Incorrect checksum value for file 2023-349-PBP.xml
+------------------ERROR-------------------
+File: 2023-349-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000004</student_no>
+Course Number: <course_no>G-800009</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: 
+Notes: <notes>***ERROR*** Incorrect number of nodes</notes>
+Node Count: 6
+Error Message: Incorrect number of child elements.
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000001</student_no>
+Course Number: <course_no>G-80004</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Node Count: 7
+Error Message: Invalid grade. If type 1, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000004</student_no>
+Course Number: <course_no>A-8007</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Node Count: 7
+Error Message: Invalid grade. If type 1, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000004</student_no>
+Course Number: <course_no>D-12345</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Course does not exist</notes>
+Node Count: 7
+Error Message: Invalid course number. If type 2, enter *
+-------------------------------------------------
+------------------ERROR-------------------
+File: 2023-349-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>80000002</student_no>
+Course Number: <course_no>G-80005</course_no>
+Registration Number: <registration_no>2001</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Node Count: 7
+Error Message: Invalid course number. If type 2, enter *
+-------------------------------------------------
+A grade of: 51 has been successfully applied to registration 819.
+A grade of: 35.4 has been successfully applied to registration 820.
+REGISTRATION ERROR: Student cannot register for a course in which there is already an ungraded registration.
+REGISTRATION ERROR: Student has exceeded the maximum attempts on mastery course.
+Student: 80000004 has successfully registered for course: A-8002
+Student: 80000004 has successfully registered for course: G-800003
+Student: 80000004 has successfully registered for course: G-800004
+Exception in ProcessTransmission: Incorrect date for file 2023-349-ECE.xml
+Exception in ProcessTransmission: Program acronym not found for file 2023-349-CP.xml

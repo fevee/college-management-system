@@ -1,0 +1,70 @@
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\BITCollegeService.dll.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\BITCollegeService.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\BITCollegeService.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\BITCollege_FV.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Utility.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.Optimization.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.Mvc.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Razor.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.Razor.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\BITCollege_FV.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\BITCollege_FV.dll.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Utility.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.Optimization.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.Mvc.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Razor.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.Razor.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.csproj.AssemblyReference.cache
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.csproj.CoreCompileInputs.cache
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.csproj.CopyComplete
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.SqlServer.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\WebGrease.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Antlr3.Runtime.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Newtonsoft.Json.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.SqlServer.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Antlr3.Runtime.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollegeService\bin\Newtonsoft.Json.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\BITCollegeService.dll.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\BITCollegeService.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\BITCollegeService.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\BITCollege_FV.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.SqlServer.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Utility.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.Optimization.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.Mvc.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\WebGrease.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Microsoft.Web.Infrastructure.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Razor.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.Razor.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Antlr3.Runtime.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Newtonsoft.Json.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Deployment.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\BITCollege_FV.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\BITCollege_FV.dll.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Utility.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\EntityFramework.SqlServer.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.Optimization.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.Mvc.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Razor.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.Razor.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Antlr3.Runtime.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\Newtonsoft.Json.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\bin\System.Web.WebPages.Deployment.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.csproj.AssemblyReference.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.csproj.CoreCompileInputs.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\obj\Debug\BITColle.BA8539D7.Up2Date
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollegeService\obj\Debug\BITCollegeService.pdb

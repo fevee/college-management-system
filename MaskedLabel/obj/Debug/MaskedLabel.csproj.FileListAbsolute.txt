@@ -1,0 +1,21 @@
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\fetva\source\repos\BITCollege_FV\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb

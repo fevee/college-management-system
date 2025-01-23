@@ -1,0 +1,202 @@
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\BITCollege_FV.dll.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\BITCollege_FV.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\BITCollege_FV.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csc.exe
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csc.exe.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csc.rsp
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csi.exe
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csi.exe.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csi.rsp
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.AppContext.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Console.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.Compression.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Net.Http.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.ValueTuple.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\vbc.exe
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\vbc.exe.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\vbc.rsp
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\VBCSCompiler.exe
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Antlr3.Runtime.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Newtonsoft.Json.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Helpers.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Mvc.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Optimization.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Razor.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Razor.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Utility.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\WebGrease.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Utility.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Helpers.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Mvc.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Optimization.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Razor.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Razor.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Newtonsoft.Json.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Antlr3.Runtime.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.AssemblyReference.cache
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.CoreCompileInputs.cache
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.CopyComplete
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.SqlServer.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.SqlServer.xml
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.InitialCreate.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.GenerateResource.cache
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.AddedNextUniqueNumber.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextStudent.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextRegistration.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextGradedCourse.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextAuditCourse.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextMasteryCourse.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextUniqueNumberController.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedStoredProcedure.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Properties.Resources.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.StoredProcedures.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedSetNextNumber.resources
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EWSoftware.MaskedLabelControl.dll
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EWSoftware.MaskedLabelControl.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\BITCollege_FV\bin\EWSoftware.MaskedLabelControl.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\BITCollege_FV.dll.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\BITCollege_FV.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\BITCollege_FV.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csc.exe
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csc.exe.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csc.rsp
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csi.exe
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csi.exe.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\csi.rsp
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.Managed.Core.targets
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.AppContext.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Collections.Immutable.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Console.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Globalization.Calendars.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.Compression.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.FileSystem.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Net.Http.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Net.Sockets.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Reflection.Metadata.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.ValueTuple.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.XmlDocument.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.XPath.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\vbc.exe
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\vbc.exe.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\vbc.rsp
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\VBCSCompiler.exe
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\roslyn\VBCSCompiler.exe.config
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Antlr3.Runtime.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.SqlServer.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EWSoftware.MaskedLabelControl.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Microsoft.Web.Infrastructure.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Newtonsoft.Json.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Helpers.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Mvc.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Optimization.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Razor.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Deployment.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Razor.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Utility.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\WebGrease.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EWSoftware.MaskedLabelControl.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EWSoftware.MaskedLabelControl.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Utility.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\EntityFramework.SqlServer.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Helpers.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Mvc.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Optimization.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.Razor.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Deployment.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\System.Web.WebPages.Razor.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Newtonsoft.Json.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Antlr3.Runtime.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.AssemblyReference.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.InitialCreate.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.AddedNextUniqueNumber.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextStudent.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextRegistration.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextGradedCourse.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextAuditCourse.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextMasteryCourse.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedNextUniqueNumberController.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedStoredProcedure.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.StoredProcedures.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Migrations.addedSetNextNumber.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.Properties.Resources.resources
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.GenerateResource.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.csproj.CoreCompileInputs.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITColle.5EB96588.Up2Date
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\BITCollege_FV\obj\Debug\BITCollege_FV.pdb

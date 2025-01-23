@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\fetva\\Documents\\RRC Polytech Archive\\Repos\\BITCollege_FV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|f:\\fetva\\documents\\rrc polytech archive\\repos\\bitcollege_fv\\bitcollegewindows\\bitcollegewindows\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentData.cs [Design]",
+              "DocumentMoniker": "F:\\fetva\\Documents\\RRC Polytech Archive\\Repos\\BITCollege_FV\\BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "ToolTip": "F:\\fetva\\Documents\\RRC Polytech Archive\\Repos\\BITCollege_FV\\BITCollegeWindows\\BITCollegeWindows\\StudentData.cs [Design]",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\StudentData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:47:13.626Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

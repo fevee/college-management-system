@@ -1,0 +1,18 @@
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.pdb
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\Utility\bin\Debug\Utility.dll
+C:\Users\fetva\source\repos\BITCollege_FV\Utility\bin\Debug\Utility.pdb
+C:\Users\fetva\source\repos\BITCollege_FV\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\fetva\source\repos\BITCollege_FV\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\fetva\source\repos\BITCollege_FV\Utility\obj\Debug\Utility.dll
+C:\Users\fetva\source\repos\BITCollege_FV\Utility\obj\Debug\Utility.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\Utility\bin\Debug\Utility.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\Utility\bin\Debug\Utility.pdb
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\Utility\obj\Debug\Utility.dll
+F:\fetva\Documents\RRC Polytech Archive\Repos\BITCollege_FV\Utility\obj\Debug\Utility.pdb
