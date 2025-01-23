@@ -8,6 +8,7 @@ A comprehensive C# ASP.NET MVC project designed for managing academic entities a
 - **Languages:** C#, HTML, CSS
 - **Frameworks:** ASP.NET MVC, Entity Framework, Windows Forms
 - **Database:** Microsoft SQL Server
+- **Design Principles:** Object-Oriented Programming (OOP)
 - **Design Patterns:** State Pattern, Singleton Pattern
 - **Testing Frameworks:** NUnit
 
@@ -66,4 +67,8 @@ A comprehensive C# ASP.NET MVC project designed for managing academic entities a
      - CRUD operations for students, courses, and registrations.
    - Ensures reliability and correctness of the system across various edge cases.
 
+## Acknowledgments
+
+This project was created as part of academic coursework.
+Special thanks to the instructors who guided the development.
 
