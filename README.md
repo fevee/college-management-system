@@ -5,7 +5,7 @@ A comprehensive C# ASP.NET MVC project designed for managing academic entities a
 
 ## Technologies Used
 
-- **Languages:** C#, HTML, CSS
+- **Languages:** C#, Javascript, HTML
 - **Frameworks:** ASP.NET MVC, Entity Framework, Windows Forms
 - **Database:** Microsoft SQL Server
 - **Design Principles:** Object-Oriented Programming (OOP)
